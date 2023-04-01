@@ -177,7 +177,7 @@ td {
 @media screen and (max-device-width: 870px) and (orientation:landscape) {
   a, a:visited {
     float: left;
-    margin-left: 4%;
+    margin-left: 0;
   }
   .container h2 {
     width: 35%;
